@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Note: Copy this folder and open this in cmd, give command `npm start`. This will start development server and you can run this app. Before that install "Node.js" and "npm" and "Create React App".
 
-install npm modules using `npm run install`
+install npm modules using `npm install`
 
 ## Available Scripts
 
