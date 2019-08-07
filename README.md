@@ -6,6 +6,8 @@ Note: Copy this folder and open this in cmd, give command `npm start`. This will
 
 install npm modules using `npm install`
 
+Goggle drive link (with modules) : https://drive.google.com/open?id=1T7nz9KoGJMMR4POyy6c7rtGUuHBmVfeV
+
 ## Available Scripts
 
 In the project directory, you can run:
