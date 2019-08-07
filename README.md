@@ -2,7 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Note: Copy this folder and open this in cmd, give command `npm start`. This will start development server and you can run this app. Before that install "Node.js" and "npm" and "Create React App"
+Note: Copy this folder and open this in cmd, give command `npm start`. This will start development server and you can run this app. Before that install "Node.js" and "npm" and "Create React App".
+
+install npm modules using #### `npm run install`
 
 ## Available Scripts
 
